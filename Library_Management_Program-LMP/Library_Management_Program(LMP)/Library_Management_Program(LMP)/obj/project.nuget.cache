@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "UovE6s6uVzmnsKrY0QwiRZdW38P8yjmIZFU838VLDDtU9BdhHL8NlDaeqnPAEExNFusEb8/cJ9ic4sc6y9XTiw==",
+  "success": true,
+  "projectFilePath": "D:\\대학교\\글로벌소프트웨어학과\\2022년여름방학\\몰입형SW\\프로젝트\\Library_Management_Program-LMP\\Library_Management_Program(LMP)\\Library_Management_Program(LMP)\\Library_Management_Program(LMP).csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sojh0\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512",
+    "C:\\Users\\sojh0\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\sojh0\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\sojh0\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
